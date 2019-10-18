@@ -107,14 +107,11 @@ Be prepared to answer questions such as:
  
 ## Specifics:
 ### This project is in groups
-- Group A: Joey Mathias + Michael Mbaba
-- Group B: Jalal Kiani + Aneesh Kodali
-- Group C: Nasrin Khansari + Brad Sawyer
-- Group D: Yashar Mansouri + Andrea Koltai
-- Group E: Nathan Venos + Max Tingle
-- Group F: Sorin Luca + Karin Kharina
-- Group G: Phil Busko + Alyssa Liguori
-- Group H: Sharon Kwak + Daniel Torres
+- Group 1: Brad and Chau
+- Group 2: Allison and Steven
+- Group 3: Irving and Seoho
+- Group 4: Buddy and Anil
+- Group 5: Nicole and Stuart
 
 ### Timeline
 
