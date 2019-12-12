@@ -41,11 +41,13 @@ When selecting a data set, be sure to take into consideration the following cons
 
 For online students, your completed project should contain the following four deliverables:
 
-1. A **_Narrative Technical Jupyter Notebook_** containing any code you've written for this project. The narrative aspect should walk us through the obeservations you made, the actions you took, and the results+analysis of those results. This work will need to be pushed to your GitHub repository in order to submit your project.
+1. A **_Narrative Jupyter Notebook_** containing a summary of the code you've written for this project. The narrative aspect should walk us through the obeservations you made, the actions you took, and the results+analysis of those results. This work will need to be pushed to your GitHub repository in order to submit your project.
+
+You may have additional Jupyter notebooks that show specific aspects of your project that might not help tell the story of your analysis.  This might include EDA, exploration and model building that proved fruitless, or visualizations that you're proud of but don't contribute to the narrative.
 
 2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository. 
 
-4. A **_Non-Technical PPT Presentation_** that gives a brief overview of your problem/dataset, and the pertinent steps of the OSEMN process.  This should be roughly 8 slides and take no more than five minutes.
+4. A **_Non-Technical Slide Deck** that gives a brief overview of your problem/dataset, and the pertinent steps of the OSEMN process.  This should be roughly 8 slides and take no more than five minutes.
 
 
 ### Jupyter Notebook Must-Haves
@@ -66,7 +68,7 @@ For this project, your Jupyter Notebook should meet the following specifications
 
 ## Grading Rubric 
 
-A PDF of the generic grading rubric for the project can be found [here](module5_project_rubric.pdf).  Some things might be more or less strict; please confirm any confusions with an instructor.
+A PDF of the generic grading rubric for the project can be found [here](module5_project_rubric.pdf).  This should be viewed as a template and not a strict rubric.  Please confirm any confusions with an instructor.
 
 ## Groups
 
@@ -76,7 +78,7 @@ Mod 5's project will be a choose-your-own-adventure situation!  Groups of two ar
 
 - 12/12 - project kickoff. Form groups!
 - 12/13, 9:30am - deadline to let instructors know groupings
-- 12/13, 2:00pm - deadline to let instructors know your problem AND/OR your dataset
+- 12/13, 2:00pm - deadline to let instructors know your problem and your dataset (via a form that will be sent out)
 - 12/16, 2:30pm - check-in with coaches
 - 12/17, 9:30am - check-in with lead instructor
 - 12/18, 3:00pm - presentation & mini Science Fair
